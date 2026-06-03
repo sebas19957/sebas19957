@@ -1,4 +1,3 @@
-````markdown
 ### Hi there 👋🏼
 
 ## I'm Sebastian Mosquera Valencia 👨🏻‍💻
@@ -196,4 +195,3 @@ I'm always open to working on challenging products, collaborating with strong te
 *Made with 💜 by [Sebastian Mosquera Valencia](https://github.com/TU_USUARIO_GITHUB)*
 
 </div>
-```
