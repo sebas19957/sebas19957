@@ -1,80 +1,199 @@
-# 👨🏾‍💻 Sebastián Mosquera
+````markdown
+### Hi there 👋🏼
 
-Frontend & Fullstack Developer based in Medellín, Colombia 🇨🇴  
+## I'm Sebastian Mosquera Valencia 👨🏻‍💻
 
-I specialize in building scalable web and mobile applications, focusing on performance, clean architecture, and great user experiences.
+### Senior Frontend Engineer | Full Stack Developer | Mobile Developer
 
----
+[![Website](https://img.shields.io/badge/Portfolio-sebastianmv.com-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sebastianmv.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semosva) 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebas19957@hotmail.com)
 
-## 🚀 About Me
+<img align="right" alt="Coding GIF" height="190px" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💼 Currently working as Frontend Developer
-- 🧠 Strong experience in production environments
-- ⚙️ Focused on performance optimization and scalable architectures
-- 📱 Experience building cross-platform mobile apps
-- 🔄 Always learning and improving engineering practices
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;6%2B+Years+Building+Software;Frontend%2C+Backend+and+Mobile+Development;React+%7C+Next.js+%7C+Angular+%7C+React+Native;Shipping+Products+to+Production)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+#### Languages & Frameworks
 
-### Frontend
-- React / Next.js
-- Angular
-- React Native (CLI + Expo)
-- TypeScript / JavaScript
+<p>
+  <a href="https://skillicons.dev">
+    <!-- Puedes ajustar estos iconos como quieras -->
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,angular,tailwind,kotlin&perline=9" />
+  </a>
+</p>
 
-### Backend
-- Node.js
-- NestJS
-- GraphQL / REST APIs
+#### Backend & Databases
 
-### DevOps & Cloud
-- Docker
-- GitHub Actions (CI/CD)
-- AWS / GCP / Azure
+<p>
+  <a href="https://skillicons.dev">
+    <!-- Puedes ajustar estos iconos como quieras -->
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,dotnet,graphql,postgresql,mongodb,mysql,docker&perline=9" />
+  </a>
+</p>
 
-### Testing
-- Jest
-- React Testing Library
+#### Tools & Cloud
 
----
+<p>
+  <a href="https://skillicons.dev">
+    <!-- Puedes ajustar estos iconos como quieras -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,azure,vercel,figma,firebase&perline=9" />
+  </a>
+</p>
 
-## 📌 Featured Projects
+----------
 
-🔹 **OpenJira (Fullstack App)**  
-Project management system inspired by Jira  
-- React + Next.js + Backend API  
-- State management & scalable architecture  
+<h3> 🤓 About Me </h3>
 
-🔹 **Frontend Architecture Playground**  
-Patterns for scalable frontend applications  
-- Zustand / Clean Architecture  
-- Performance optimizations  
+- 💻 &nbsp; **Systems Engineer** with 6+ years of experience building software from frontend to backend and mobile.
+- 🚀 &nbsp; Focused on creating products that work beyond the prototype and perform reliably in production.
+- ⚛️ &nbsp; Experienced with **React, Next.js, Angular 17+, React Native, Kotlin and TypeScript**.
+- 🧠 &nbsp; Skilled in backend development with **Node.js, NestJS, Python, GraphQL and REST APIs**.
+- ☁️ &nbsp; Hands-on experience deploying applications on **AWS, GCP, Azure, Vercel and IIS**.
+- 🧪 &nbsp; Comfortable working with **CI/CD pipelines, Jest testing and production-ready architectures**.
+- 🤝 &nbsp; I adapt quickly to new stacks, teams and business contexts.
+- 🌎 &nbsp; Open to **remote or hybrid roles** as a Senior Full Stack, Frontend or Mobile Developer.
 
-🔹 **Mobile App (React Native)**  
-Cross-platform mobile app  
-- Expo / CLI  
-- API integration & state management  
-
----
-
-## 📈 What I Bring
-
-- Experience working on real production systems
-- Ability to design and maintain scalable architectures
-- Strong understanding of frontend performance
-- Fullstack mindset (frontend + backend + infra)
+```typescript
+const WhatDrivesMe = {
+  mission: "Build reliable software that solves real business problems.",
+  focus: "Frontend, backend and mobile products ready for production.",
+  mindset: "Understand the product before writing the first line of code.",
+  growth: "Adapt fast, learn deeply and deliver with ownership.",
+};
+````
 
 ---
 
-## 📫 Contact
+<h3>🛠 Tech Skills</h3>
 
-- 🌐 Portfolio: https://www.sebastianmv.dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/semosva  
+* 💻   JavaScript | TypeScript | HTML | CSS | React | Next.js | Angular 17+ | React Native | Kotlin | Tailwind
+* ⚙️   Node.js | NestJS | Python | .NET Core | REST APIs | GraphQL | Microservices
+* 🗄️   PostgreSQL | MongoDB | SQL Server
+* ☁️   AWS | GCP | Azure | Vercel | IIS | CI/CD | Docker
+* 🧪   Jest | Git | GitHub | Zustand | Expo | React Native CLI
 
 ---
 
-## ⚡ Fun fact
+<h3>💼 Professional Experience</h3>
 
-I enjoy solving complex problems and turning ideas into real, scalable products.
+### HOME POWER COLOMBIA SAS
+
+**Senior Frontend Developer**
+*May 2025 - Present*
+
+Working on the development and evolution of a multiplatform platform for the energy sector using **Angular 18/19, React, React Native CLI and Expo**.
+
+* Redesigned state management architecture with **Zustand**, helping stabilize critical mobile user flows.
+* Set up unit testing with **Jest** for sensitive components to reduce regressions across releases.
+* Standardized mobile build and deployment workflows with **React Native CLI**, separating staging and production environments.
+* Integrated REST APIs across multiple platform modules.
+
+**Stack:** Angular 18/19 · React · React Native · TypeScript · Tailwind · Zustand · NestJS · Jest · Expo · GitHub
+
+---
+
+### Mercadeo Virtual S.A
+
+**Full Stack Developer**
+*March 2021 - February 2025*
+
+Worked for 4 years building custom software for the animal processing industry, focused on traceability systems, operational monitoring and real-time reporting platforms.
+
+* Led the development of **5 to 8 production web products** simultaneously.
+* Built scalable interfaces with **React and Next.js**, consuming REST and GraphQL APIs.
+* Developed backend services with **NestJS, Node.js and .NET Core 3.0**.
+* Integrated relational and NoSQL databases such as **SQL Server, PostgreSQL and MongoDB**.
+* Automated report generation and delivery, eliminating manual work that consumed hours every week.
+* Deployed applications on **AWS, GCP, Azure, Vercel and IIS** with CI/CD pipelines.
+
+**Stack:** React · Next.js · TypeScript · Node.js · NestJS · .NET Core · GraphQL · SQL Server · PostgreSQL · MongoDB · Docker · AWS · GCP · Azure · Vercel
+
+---
+
+### Atlas Global Solutions
+
+**Frontend Developer**
+*January 2020 - December 2020*
+
+First professional role focused on international clients, developing and maintaining websites and workflows with **WordPress and Salesforce**.
+
+* Customized and maintained WordPress websites using **HTML, CSS and PHP**.
+* Configured basic Salesforce CRM workflows and automations.
+* Built forms, templates and custom components based on client requirements.
+
+**Stack:** WordPress · PHP · Salesforce · HTML · CSS
+
+---
+
+<h3>🎓 Education</h3>
+
+### Universidad de Medellín
+
+**Engineering — Web Application Development**
+*2015 - 2021*
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=F5C2E7&text_color=EBDDFD&include_all_commits=true" 
+    alt="GitHub Stats" height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=EBDDFD&langs_count=8" 
+    alt="Top Languages" height="170"
+  />
+</div>
+
+<div align="center"> 
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&hide_border=true&background=0D1117&ring=CBA6F7&fire=F5C2E7&currStreakLabel=EBDDFD&sideNums=EBDDFD&sideLabels=CBA6F7&dates=F5C2E7&currStreakNum=EBDDFD" 
+    alt="GitHub Streak" 
+  />
+</div>
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0D1117&color=EBDDFD&line=CBA6F7&point=F5C2E7&area_color=CBA6F7&hide_border=true"  
+alt="Contribution Graph"  
+/>
+
+---
+
+<h3>🌐 Let's Connect</h3>
+
+<div>
+
+I'm always open to working on challenging products, collaborating with strong teams and building software that reaches production.
+
+**Find me around the web:**
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-sebastianmv.com-4c5861?style=for-the-badge)](https://www.sebastianmv.com/)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Professional_Network-0077B5?style=for-the-badge)](https://www.linkedin.com/in/semosva)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-Get_In_Touch-EA4335?style=for-the-badge)](mailto:sebas19957@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+### Thanks for visiting! 🚀
+
+*"Before writing the first line of code, understand what you are building for."*
+
+![GitHub Followers](https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge\&color=FF6B6B)
+
+![GitHub Stars](https://img.shields.io/github/stars/TU_USUARIO_GITHUB?style=for-the-badge\&color=4ECDC4)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB\&color=4c5861\&style=for-the-badge)
+
+*Made with 💜 by [Sebastian Mosquera Valencia](https://github.com/TU_USUARIO_GITHUB)*
+
+</div>
+```
