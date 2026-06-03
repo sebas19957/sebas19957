@@ -17,7 +17,7 @@
 <p>
   <a href="https://skillicons.dev">
     <!-- Puedes ajustar estos iconos como quieras -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,angular,tailwind,kotlin&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,angular,redux,tailwind,styledcomponents,vite,kotlin&perline=12" />
   </a>
 </p>
 
@@ -26,16 +26,16 @@
 <p>
   <a href="https://skillicons.dev">
     <!-- Puedes ajustar estos iconos como quieras -->
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,dotnet,graphql,postgresql,mongodb,mysql,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,dotnet,graphql,postgresql,mongodb,mysql,supabase,firebase,docker&perline=12" />
   </a>
 </p>
 
-#### Tools & Cloud
+#### Tools, Testing & Cloud
 
 <p>
   <a href="https://skillicons.dev">
     <!-- Puedes ajustar estos iconos como quieras -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,azure,vercel,figma,firebase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,jest,aws,gcp,azure,vercel,figma,expo&perline=12" />
   </a>
 </p>
 
@@ -46,7 +46,8 @@
 - 💻 &nbsp; **Systems Engineer** with 6+ years of experience building software from frontend to backend and mobile.
 - 🚀 &nbsp; Focused on creating products that work beyond the prototype and perform reliably in production.
 - ⚛️ &nbsp; Experienced with **React, Next.js, Angular 17+, React Native, Kotlin and TypeScript**.
-- 🧠 &nbsp; Skilled in backend development with **Node.js, NestJS, Python, GraphQL and REST APIs**.
+- 📱 &nbsp; Skilled in mobile development with **React Native CLI, Expo and Android Studio**.
+- 🧠 &nbsp; Skilled in backend development with **Node.js, NestJS, Express, Python, GraphQL and REST APIs**.
 - ☁️ &nbsp; Hands-on experience deploying applications on **AWS, GCP, Azure, Vercel and IIS**.
 - 🧪 &nbsp; Comfortable working with **CI/CD pipelines, Jest testing and production-ready architectures**.
 - 🤝 &nbsp; I adapt quickly to new stacks, teams and business contexts.
@@ -65,11 +66,12 @@ const WhatDrivesMe = {
 
 <h3>🛠 Tech Skills</h3>
 
-* 💻   JavaScript | TypeScript | HTML | CSS | React | Next.js | Angular 17+ | React Native | Kotlin | Tailwind
-* ⚙️   Node.js | NestJS | Python | .NET Core | REST APIs | GraphQL | Microservices
-* 🗄️   PostgreSQL | MongoDB | SQL Server
+* 💻   JavaScript | TypeScript | HTML | CSS | React | Next.js | Angular 17+ | React Native | Kotlin
+* 🎨   Tailwind CSS | Styled Components | Vite | Zustand | Redux
+* ⚙️   Node.js | NestJS | Express | Python | .NET Core | REST APIs | GraphQL | Microservices
+* 🗄️   PostgreSQL | MongoDB | SQL Server | Supabase | Firebase
 * ☁️   AWS | GCP | Azure | Vercel | IIS | CI/CD | Docker
-* 🧪   Jest | Git | GitHub | Zustand | Expo | React Native CLI
+* 🧪   Jest | Git | GitHub | Expo | React Native CLI | Android Studio | Visual Studio | VS Code
 
 ---
 
@@ -87,7 +89,7 @@ Working on the development and evolution of a multiplatform platform for the ene
 * Standardized mobile build and deployment workflows with **React Native CLI**, separating staging and production environments.
 * Integrated REST APIs across multiple platform modules.
 
-**Stack:** Angular 18/19 · React · React Native · TypeScript · Tailwind · Zustand · NestJS · Jest · Expo · GitHub
+**Stack:** Angular 18/19 · React · React Native · TypeScript · Tailwind · Zustand · Jest · Expo · React Native CLI · GitHub
 
 ---
 
@@ -105,7 +107,7 @@ Worked for 4 years building custom software for the animal processing industry, 
 * Automated report generation and delivery, eliminating manual work that consumed hours every week.
 * Deployed applications on **AWS, GCP, Azure, Vercel and IIS** with CI/CD pipelines.
 
-**Stack:** React · Next.js · TypeScript · Node.js · NestJS · .NET Core · GraphQL · SQL Server · PostgreSQL · MongoDB · Docker · AWS · GCP · Azure · Vercel
+**Stack:** React · Next.js · TypeScript · Node.js · NestJS · Express · .NET Core · GraphQL · SQL Server · PostgreSQL · MongoDB · Docker · AWS · GCP · Azure · Vercel
 
 ---
 
