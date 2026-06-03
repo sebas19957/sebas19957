@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semosva)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebas19957@hotmail.com)
 
-<img align="right" alt="Coding GIF" height="190px" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;6%2B+Years+Building+Software;Frontend%2C+Backend+and+Mobile+Development;React+%7C+Next.js+%7C+Angular+%7C+React+Native;Shipping+Products+to+Production)](https://git.io/typing-svg)
 
 #### Languages & Frameworks
 
@@ -150,6 +150,8 @@ I'm always open to working on challenging products, collaborating with strong te
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ### Thanks for visiting! 🚀
 
