@@ -4,7 +4,7 @@
 
 ### Senior Frontend Engineer | Full Stack Developer | Mobile Developer
 
-[![Website](https://img.shields.io/badge/Portfolio-sebastianmv.com-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sebastianmv.com/) 
+[![Website](https://img.shields.io/badge/Portfolio-sebastianmv.dev-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sebastianmv.dev/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semosva) 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebas19957@hotmail.com)
 
