@@ -153,8 +153,6 @@ I'm always open to working on challenging products, collaborating with strong te
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
 ### Thanks for visiting! 🚀
 
 *"Before writing the first line of code, understand what you are building for."*
