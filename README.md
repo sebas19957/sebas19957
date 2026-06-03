@@ -4,8 +4,8 @@
 
 ### Senior Frontend Engineer | Full Stack Developer | Mobile Developer
 
-[![Website](https://img.shields.io/badge/Portfolio-sebastianmv.dev-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sebastianmv.dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semosva) 
+[![Website](https://img.shields.io/badge/Portfolio-sebastianmv.dev-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sebastianmv.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semosva)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebas19957@hotmail.com)
 
 <img align="right" alt="Coding GIF" height="190px" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -135,33 +135,6 @@ First professional role focused on international clients, developing and maintai
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=F5C2E7&text_color=EBDDFD&include_all_commits=true" 
-    alt="GitHub Stats" height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=EBDDFD&langs_count=8" 
-    alt="Top Languages" height="170"
-  />
-</div>
-
-<div align="center"> 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&hide_border=true&background=0D1117&ring=CBA6F7&fire=F5C2E7&currStreakLabel=EBDDFD&sideNums=EBDDFD&sideLabels=CBA6F7&dates=F5C2E7&currStreakNum=EBDDFD" 
-    alt="GitHub Streak" 
-  />
-</div>
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0D1117&color=EBDDFD&line=CBA6F7&point=F5C2E7&area_color=CBA6F7&hide_border=true"  
-alt="Contribution Graph"  
-/>
-
----
-
 <h3>🌐 Let's Connect</h3>
 
 <div>
@@ -170,7 +143,7 @@ I'm always open to working on challenging products, collaborating with strong te
 
 **Find me around the web:**
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-sebastianmv.com-4c5861?style=for-the-badge)](https://www.sebastianmv.com/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-sebastianmv.dev-4c5861?style=for-the-badge)](https://sebastianmv.dev/)
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Professional_Network-0077B5?style=for-the-badge)](https://www.linkedin.com/in/semosva)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-Get_In_Touch-EA4335?style=for-the-badge)](mailto:sebas19957@hotmail.com)
 
@@ -186,12 +159,6 @@ I'm always open to working on challenging products, collaborating with strong te
 
 *"Before writing the first line of code, understand what you are building for."*
 
-![GitHub Followers](https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge\&color=FF6B6B)
-
-![GitHub Stars](https://img.shields.io/github/stars/TU_USUARIO_GITHUB?style=for-the-badge\&color=4ECDC4)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB\&color=4c5861\&style=for-the-badge)
-
-*Made with 💜 by [Sebastian Mosquera Valencia](https://github.com/TU_USUARIO_GITHUB)*
+*Made with 💜 by [Sebastian Mosquera Valencia](https://sebastianmv.dev/)*
 
 </div>
